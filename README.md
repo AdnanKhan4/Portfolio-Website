@@ -1,6 +1,6 @@
 # portfolio_web
 
-A new Flutter project.
+Welcome to my Flutter Developer Portfolio! Explore my journey in mobile app development, showcasing projects crafted with Flutter, Dart, and Firebase. Discover a modern, user-friendly design featuring an About Me section, project highlights, technical skills, and a contact form. Let’s collaborate to bring innovative app ideas to life!
 
 
 
@@ -9,8 +9,7 @@ A new Flutter project.
 To run Contact Form EmailJS, you need to set up your environment variables. Follow these steps:
 
 1. Create a file named `env_config.dart` in the `lib` folder.
-2. Copy the content from `env_config_template.dart` and paste it into your new `env_config.dart` file.
-3. Replace the placeholder values with your actual keys:
+2. Replace the placeholder values with your actual keys:
    - `serviceId`: Your EmailJS service ID.
    - `templateId`: Your EmailJS template ID.
    - `userId`: Your EmailJS user ID.
