@@ -740,7 +740,7 @@ class _DesktopHomepageState extends State<DesktopHomepage>
                                       ),
                                       onPressed: () {
                                         const link =
-                                            "https://drive.google.com/file/d/15LkZoOKGm9kjEXdCGTz7HmPzH_MhPRo2/view?usp=sharing";
+                                            "https://drive.google.com/file/d/1yaVM2KevEJAGc9jzXFxjUclNfmOSmEz3/view?usp=sharing";
                                         launchUrl(Uri.parse(link),
                                             mode: LaunchMode.inAppBrowserView);
                                       },
